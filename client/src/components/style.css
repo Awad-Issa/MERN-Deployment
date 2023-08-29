@@ -1,0 +1,45 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    text-align-last: center;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+body{
+    font-variant: all-petite-caps;
+    font-variant-east-asian: full-width;
+}
+
+h1{
+    text-decoration-line: underline;
+    color: darkcyan;
+}
+
+th{
+    color: darkcyan;
+    font-size: larger;
+    text-decoration-line: underline;
+
+}
+
+h5{
+    color: darkcyan;
+}
+
+td{
+    color: sienna;
+}
+
+.errors{
+    color: red;
+    font-size: x-large;
+}
